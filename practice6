@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HASSAN </title>
+</head>
+
+<body>
+    <center> <b>
+            <header>
+                <h1>WELCOME TO MY WEBSITE</h1>
+            </header>
+            <nav class="nav bar">
+                <a href="#home">HOME</a>
+                <a href="#about">ABOUT</a>
+                <a href="#service">SERVICE</a>
+            </nav>
+        </b> </center>
+    <hr>
+    <h2>
+        <form> <label for="name">Name</label>
+            <input type="name" name="name" id="name" placeholder="Enter your name">
+        </form>
+    </h2>
+    <h2>
+        <form> <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="Enter your email">
+        </form>
+        <hr>
+        <form>
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" placeholder="Enter your password">
+    </h2>
+    </form>
+
+
+
+    <center>
+        <hr>
+        <h1><u></u> </h1>
+        <hr>
+        <h2>SIMPLE CAR</h2>
+        <h3>Simple cars are often characterized by their straightforward design, minimalistic features, and focus on
+            practicality. These vehicles typically prioritize functionality over luxury, making them ideal for
+            individuals seeking reliable transportation without the frills. Basic models usually come with essential
+            features such as manual transmission, basic audio systems, and limited electronic components, which not only
+            reduce the overall cost but also make them easier to maintain. Simple cars are often appreciated for their
+            fuel efficiency and lower environmental impact, as they tend to be lighter and have smaller engines compared
+            to more complex vehicles. Additionally, their simplicity can translate into a more connected driving
+            experience, allowing drivers to feel more in control and engaged with the road.</h3>
+        <img height="300" src="https://pakobserver.net/wp-content/uploads/2023/11/j3.jpg" alt="car image">
+        <h2>NEW CAR</h2>
+        <h3>
+            New cars in 2024 are a blend of cutting-edge technology, sleek design, and enhanced performance. Automakers
+            are increasingly focusing on electric and hybrid models to meet environmental standards and cater to the
+            growing demand for sustainable transportation. These vehicles boast advanced features such as autonomous
+            driving capabilities, state-of-the-art infotainment systems, and enhanced safety measures like adaptive
+            cruise control and lane-keeping assistance. In addition to technological advancements, the aesthetics of new
+            cars have also evolved, with bold lines, aerodynamic shapes, and luxurious interiors becoming the norm. The
+            automotive industry is continuously innovating to provide a driving experience that is not only efficient
+            and eco-friendly but also comfortable and enjoyable for consumers. </h3>
+        <img height="300" src="https://allrentacars.com/wp-content/uploads/2019/07/Toyota-Corolla-Sedan-1-3647x2735.jpg"
+            alt="new car">
+        <h2>RACING CAR</h2>
+        <h3>Racing cars represent the pinnacle of automotive engineering, embodying speed, precision, and innovation. From the roaring engines of Formula 1 cars to the sleek design of Le Mans prototypes, these vehicles are crafted to push the boundaries of performance. Every element, from the aerodynamics to the lightweight materials used in construction, is meticulously optimized to shave off precious milliseconds. The thrill of racing captivates fans worldwide, with drivers navigating complex tracks at breathtaking speeds, showcasing not only the car's capabilities but also their own skill and courage. Racing cars are not just about competition; they are a testament to human ingenuity and the relentless pursuit of excellence in the world of motorsport. </h3>
+        <img height="300"
+            src="https://img.freepik.com/premium-photo/blue-lamborghini-road-with-cloudy-sky-background_148840-3365.jpg"
+            alt="racing car">
+        <h2>LUXURY CAR</h2>
+
+        <h3>Luxury cars epitomize sophistication and performance, blending state-of-the-art technology with exquisite craftsmanship. These vehicles are designed not just to provide transportation, but to offer an elevated driving experience characterized by comfort, style, and superior engineering. From the plush interiors adorned with high-quality materials like leather and wood trim to the advanced infotainment systems and cutting-edge safety features, luxury cars cater to the desires of the discerning driver. Brands like Rolls-Royce, Bentley, and Mercedes-Benz are synonymous with this segment, consistently pushing the boundaries of automotive innovation and opulence. Whether it's the smooth, powerful ride, the meticulously designed cabin, or the prestige that comes with owning one, luxury cars stand as symbols of status and elegance, representing the pinnacle of automotive achievement.</h3>
+
+
+
+
+        <img height="300" src="https://w0.peakpx.com/wallpaper/131/788/HD-wallpaper-lamborghini-lp570-luxury-cars.jpg"
+            alt="luxury car">
+        <hr>
+        <h2>DRIFTING CAR</h2>
+
+        <h3>Drifting is a driving technique and motorsport where the driver intentionally oversteers, causing a loss of traction in the rear wheels while maintaining control and driving the car through the entirety of a corner. This is achieved by counter-steering and precise throttle control, allowing the car to glide sideways at high speeds. Originating in Japan in the 1970s and popularized by figures like Keiichi Tsuchiya, also known as the "Drift King," drifting has since become a global phenomenon. Drifting events are often held on closed circuits where drivers compete based on their speed, angle, and overall style. The sport emphasizes both the skill of the driver and the performance of the car, often requiring modifications to enhance handling and power. The aesthetic appeal and the adrenaline rush of sliding through turns have made drifting a beloved motorsport, celebrated in various media including films, video games, and international competitions like the Formula Drift series.</h3>
+
+        <iframe width="500" height="300" src="https://www.youtube.com/embed/NMThdHhrLoM?si=1QUCF7UeQMpL60Nz"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h2>Your Favourite Car</h2>
+
+
+        <select>
+            <option value="car1">SIMPLE CAR</option>
+            <option value="car2">NEW CAR</option>
+            <option value="car3">RACING CAR</option>
+            <option value="car4">LUXURY CAR</option>
+            <option value="car5">DRIFTING CAR</option>
+        </select>
+        <hr>
+    </center>
+    
+  <center> <h2>FOLLOW ME ON:</h2></center>
+
+   <center> <table border="1">
+        <tr>
+            <td>1</td>
+           <td>YOUTUBE</td>
+         <td><a href="https://www.youtube.com/">https://www.youtube.com/</a></td>
+            </tr>
+        <tr>
+            <td>2</td>
+           <td>FACEBOOK</td>
+            <td><a href="https://www.facebook.com/">https://www.facebook.com/</a></td>
+          </tr>
+    
+           
+        
+    </table>
+    </center>
+    <hr>
+   <center> <form>
+    <input type="submit" name="submit">
+    </form></center>
+</body>
+
+</html>
