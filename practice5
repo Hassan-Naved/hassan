@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HASSAN BHAI</title>
+</head>
+
+<body>
+  <center> <b><header>
+        <h1>WELCOME TO MY WEBSITE</h1>
+    </header>
+    <nav class="nav bar">
+        <a href="#home">HOME</a>
+        <a href="#about">ABOUT</a>
+        <a href="#service">SERVICE</a>
+    </nav></b> </center>
+    
+         
+     <h2>LOGIN PLEASE</h2>
+        
+    <hr>
+
+    <h2>
+        
+        <form> <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="Enter your email">
+        </form>
+        <hr>
+        <form>
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" placeholder="Enter your password">
+    </h2>
+    </form>
+
+
+
+    <center>
+        <hr>
+        <h1><u>CHOSE YOUR FAVOURITE PROFILES PHOTO</u> </h1>
+        <hr>
+      
+        <h2>Number:1</h2>
+        <img height="300"
+            src="https://shayariraja.com/wp-content/uploads/2024/02/boys-dp_by-shayariraja-21-1024x1024.jpg"
+            alt="image">
+        <h2>About This Photo</h2>
+        <h3>A stylish DP (display picture) for boys often encapsulates a blend of modern fashion, confidence, and
+            individuality. It typically features elements like trendy hairstyles, well-fitted and fashionable clothing,
+            and a striking background or setting that complements the overall aesthetic. Whether it's a casual
+            streetwear look, a formal attire shot, or a candid moment capturing a natural expression, the key is to
+            project a sense of personality and style. Accessories like sunglasses, watches, or even minimalistic jewelry
+            can add an extra touch of flair. The lighting and angles are crucial, as they enhance the features and
+            outfit, making the DP stand out. Overall, a stylish DP for boys is a visual representation of their fashion
+            sense and personal charm.</h3>
+        <h2>Number:2</h2>
+        <img height="300" src="https://funkylife.in/wp-content/uploads/2024/02/boys-dp-126.jpg" alt="image">
+        
+        <h2>About This Photo</h2>
+        <h3>A stylish DP (display picture) for boys often encapsulates a blend of modern fashion, confidence, and
+            individuality. It typically features elements like trendy hairstyles, well-fitted and fashionable clothing,
+            and a striking background or setting that complements the overall aesthetic. Whether it's a casual
+            streetwear look, a formal attire shot, or a candid moment capturing a natural expression, the key is to
+            project a sense of personality and style. Accessories like sunglasses, watches, or even minimalistic jewelry
+            can add an extra touch of flair. The lighting and angles are crucial, as they enhance the features and
+            outfit, making the DP stand out. Overall, a stylish DP for boys is a visual representation of their fashion
+            sense and personal charm.</h3>
+        
+        <h2>Number:3</h2>
+        <img height="300"
+            src="https://cdn4.sharechat.com/img_274727_c451dfa_1675825271868_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=868_sc.jpg"
+            alt="image">
+        
+            <h2>About This Photo</h2>
+            <h3>A stylish DP (display picture) for boys often encapsulates a blend of modern fashion, confidence, and
+                individuality. It typically features elements like trendy hairstyles, well-fitted and fashionable clothing,
+                and a striking background or setting that complements the overall aesthetic. Whether it's a casual
+                streetwear look, a formal attire shot, or a candid moment capturing a natural expression, the key is to
+                project a sense of personality and style. Accessories like sunglasses, watches, or even minimalistic jewelry
+                can add an extra touch of flair. The lighting and angles are crucial, as they enhance the features and
+                outfit, making the DP stand out. Overall, a stylish DP for boys is a visual representation of their fashion
+                sense and personal charm.</h3>
+        
+        
+            <h2>Number:4</h2>
+        <img height="300"
+            src="https://cdn4.sharechat.com/img_709295_33ede549_1668959706148_sc.jpg?tenant=sc&referrer=pwa-sharechat-service&f=148_sc.jpg"
+            alt="image">
+            <h2>About This Photo</h2>
+        <h3>A stylish DP (display picture) for boys often encapsulates a blend of modern fashion, confidence, and
+            individuality. It typically features elements like trendy hairstyles, well-fitted and fashionable clothing,
+            and a striking background or setting that complements the overall aesthetic. Whether it's a casual
+            streetwear look, a formal attire shot, or a candid moment capturing a natural expression, the key is to
+            project a sense of personality and style. Accessories like sunglasses, watches, or even minimalistic jewelry
+            can add an extra touch of flair. The lighting and angles are crucial, as they enhance the features and
+            outfit, making the DP stand out. Overall, a stylish DP for boys is a visual representation of their fashion
+            sense and personal charm.</h3>
+    
+    <h2>Your Favourite Photo
+    
+    <select>
+     <option value="num1">NUMBER:1 </option>
+        <option value="num2">NUMBER:2</option>
+        <option value="num3">NUMBER:3</option>
+        <option value="num4">NUMBER:4</option>
+    </select>
+    </center>
+   <center> <h2>  Visit My Soical Media Accounts To Get More Photos:</h2>
+
+    <h3>
+     <table border="1">
+   <tr>
+    <td>1</td>
+        <td>TIKTOK</td>
+      <td><a href="https://www.tiktok.com/">https://www.tiktok.com/</a></td>
+       
+        
+    </tr>
+        
+     <tr>
+        <td>2</td>
+          <td>YOUTUBE</td>
+        
+        <td><a href="https://www.youtube.com/">https://www.youtube.com/</a></td>
+      
+     <tr>
+    <td>3</td>
+     <td>FACEBOOK</td>
+       <td><a href="https://www.facebook.com/">https://www.facebook.com/</a></td>
+          </tr>
+      <tr> 
+       <td>4</td>
+    
+       <td>INSTAGRAM</td>
+     <td><a href="https://www.instagram.com/">https://www.instagram.com/</a></td>
+ 
+</tr>
+ </table></h3>
+ <br>
+ <form>
+<input type="submit" name="submit">
+</form></center>
+
+
+
+</body>
+
+</html>
